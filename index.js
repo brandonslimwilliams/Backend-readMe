@@ -43,12 +43,12 @@ const questions = () => {
     },
     {
       type: "input",
-      name: "contribution guidlines",
+      name: "contribution",
       messege: "what contributions were made to the project?",
     },
     {
       type: "input",
-      name: "test instructions",
+      name: "instructions",
       messege: "how to test project?",
     },
     {
